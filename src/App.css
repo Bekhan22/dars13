@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+#btn {
+    width: 71px;
+    height: 39px;
+    border-radius: 10px;
+    background-color: #D9D9D9;
+    border: none;
+}
+
+.dis {
+    display: flex;
+    gap: 40px;
+}
+
+.b {
+    line-height: 30px;
+}
+
+#btn2 {
+    width: 120px;
+    height: 39px;
+    border-radius: 10px;
+    background-color: #000000;
+    color: white;
+    border: none;
+}
+
+#btn3 {
+    width: 120px;
+    height: 39px;
+    border-radius: 10px;
+    background-color: #5775F7;
+    color: white;
+    border: none;
+}
+
+.bs {
+    display: flex;
+    gap: 40px;
+}
